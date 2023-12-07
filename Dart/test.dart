@@ -57,5 +57,6 @@ class Teacher extends Person{
 
 void main(){
   Student('John Doe', 20, '123 Main St', 1, [90,85,82]);
+  print('');
   Teacher('Mrs. Smith', 35, '456 Oak St', 1, ['Math','English','Bangla']);
 }
